@@ -72,3 +72,13 @@ Use `./build.sh` to build CiCo and `./run.sh` to run it if using the command lin
 * The field should ignore those characters.
 
 
+# Module 5: Test Closing Application by Closing Window
+
+## Test steps
+1. Build and run CiCo.
+2. Close the Window.
+
+## Expected results
+* The Application should close after closing the window.
+
+
